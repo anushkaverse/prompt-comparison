@@ -20,9 +20,9 @@ To analyze how different AI models respond to:
 
 | AI Model           | Style                | Use of Code | Use of Analogy          | Overall Clarity      |
 |--------------------|----------------------|-------------|--------------------------|-----------------------|
-| **ChatGPT**        | Clear, layered        | ✅           | ✅ (Function stack)       | Excellent             |
-| **Claude AI**      | Beginner-friendly     | ✅           | ✅ (Nested dolls)         | Very Good             |
-| **Microsoft Copilot** | Dense, direct      | ✅           | ❌                        | Technical but useful  |
+| **ChatGPT**        | Clear, layered        | ✅           | Matryoshka doll analogy       | Excellent             |
+| **Claude AI**      | Beginner-friendly     | ✅           | plate stack analogy         | Very Good             |
+| **Microsoft Copilot** | Dense, direct      | ✅           | book stack metaphor                       | Technical but useful  |
 
 ### 🔹 Prompt 2: `Explain recursion to a 2nd-year computer science student.`
 
