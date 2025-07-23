@@ -1,0 +1,93 @@
+**Prompt Engineering Internship Portfolio**
+Internship Title: AI Research Intern
+Organization: CodeJR
+Duration: 18/02/24 to 18/04/24
+Focus Area: Prompt Engineering for Generative AI Models 
+________________________________________
+1. **Overview of Work**
+During my internship at CodeJR, I focused on understanding and experimenting with prompt engineering techniques to optimize responses from large language models like ChatGPT. Though this was an exploratory and self-driven role, I made consistent efforts to iterate on various prompt patterns, refine outputs, and understand how different prompt structures affect model behavior.
+________________________________________
+2. **Key Contributions**
+•	Designed and tested over 50+ prompts targeting diverse use cases like:
+o	Role-based prompting (e.g., “Act as a doctor, teacher, historian”)
+o	Instructional prompting (e.g., “Explain how Dijkstra’s algorithm works”)
+o	Chain-of-thought prompting (e.g., step-by-step reasoning problems)
+o	Few-shot examples (e.g., providing multiple input-output samples)
+•	Analyzed model behavior under different:
+o	Temperature settings
+o	System vs user prompts
+o	Output lengths and response consistency
+•	Documented learnings on how prompt tone and phrasing affect:
+o	Creativity vs accuracy of outputs
+o	Use of hallucinated data vs real facts
+o	Ethical and responsible AI usage in generative systems
+________________________________________
+3. **Prompt Examples and Iterations**
+Prompt 1 - Role Prompting
+Initial: “Explain how to cook biryani.”
+Improved: “You are a professional Indian chef. Explain step-by-step how to cook traditional Hyderabadi biryani.”
+Prompt 2 - Instructional Prompting
+Initial: “Tell me about recursion.”
+Improved: “Explain recursion to a beginner using the example of factorial calculation, in less than 100 words.”
+________________________________________
+4. **Tools and Platforms Used**
+•	ChatGPT 
+•	Claude AI 
+•	Microsoft Copilot 
+•	Notion/Google Docs for documenting prompts and observations- isnt accessible now 
+________________________________________
+5. **Outcomes**
+•	Gained practical understanding of how LLMs respond to varied prompt techniques
+•	Built a personal prompt library for technical, creative, and professional use cases
+•	Improved analytical thinking about language model behavior
+________________________________________
+6. **MY ANALYSIS**
+Objective:
+To evaluate how different large language models (ChatGPT, Claude AI, and Microsoft Copilot) interpret and respond to the same prompts, thereby understanding their reasoning approach, tone adaptation, analogy selection, technical depth, and audience awareness.
+
+Context:
+I designed two prompts to test how AI models cater their responses based on audience complexity and instructional depth.
+•	Prompt 1: "Explain recursion" (target: general audience/beginners)
+•	Prompt 2: "Explain recursion to a second-year CS student" (target: intermediate, academic tone expected)
+These prompts were tested across:
+•	ChatGPT by OpenAI
+•	Claude AI by Anthropic
+•	Microsoft Copilot
+
+Key Comparative Metrics:
+For both prompts, I analyzed the outputs based on:
+•	Tone and Audience Adaptation
+•	Analogies Used
+•	Code/Example Inclusion
+•	Technical Concepts Explained
+•	Output Explanation Depth
+•	Engagement/Clarity
+
+Findings Summary:
+
+✅ Prompt 1 - “Explain Recursion” (General Audience)
+•	ChatGPT used a Matryoshka doll analogy and Python factorial code to simplify recursion.
+•	Claude chose a plate stack analogy, slightly more abstract.
+•	Copilot opted for a book stack metaphor, maintaining beginner friendliness.
+According to me: All three provided valid, readable answers, but ChatGPT gave a more instructional breakdown, while Claude was brief, and Copilot balanced code with creativity.
+
+✅ Prompt 2 - “Explain Recursion to a 2nd-Year CS Student”
+•	ChatGPT leaned into technical control and memory management, offering deeper recursion insights.
+•	Claude leaned mathematical (Fibonacci) and emphasized call stack dynamics.
+•	Copilot offered a highly engaging real-world analogy (family dinner call chain), combining creativity with conceptual accuracy.
+According to me: Here, Copilot stood out for tone adaptation and relatability. ChatGPT remained educational and grounded, while Claude favored abstraction and mathematical thinking.
+
+**Insight:**
+This exercise highlights how prompt design affects model output, and how different AIs vary in tone, teaching style, and analogy use, even with the same prompt. Such comparison is essential for anyone working in:
+•	Education Technology
+•	AI content design
+•	UX writing
+•	Prompt engineering
+________________________________________
+**How This Adds Value to My Prompt Portfolio:**
+•	Demonstrates an understanding of prompt framing for different audiences
+•	Shows ability to evaluate AI reasoning behavior
+•	Reflects critical thinking and communication design instincts
+•	Adds a unique lens on model personality and style adaptation
+________________________________________
+'Note: This document serves as a retrospective portfolio of my contributions and learnings'
